@@ -1,0 +1,9 @@
+table, th, td {
+    border:1px solid black;
+  }
+.width {
+    width:50%
+    ;margin:auto;
+    padding: 10px;
+}
+
